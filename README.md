@@ -1,7 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:D4ECC4,100:9ECFF7&height=300&section=header&text=Welcome%20to-nl-Ryu%27s%20Github&fontSize=90&fontColor=FAFAFA&animation=scaleIn)
 
-## 📚 Skills
+<div align="center">
+  
+## 🛠 Tech Stacks 🛠
+
+### Programming Language
 ![Static Badge](https://img.shields.io/badge/java-DF0522?style=for-the-badge&logo=java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+## 📚 Skills
+
 ![Static Badge](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
