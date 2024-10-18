@@ -26,3 +26,11 @@
 ![Static Badge](https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
+
+<div align="center">
+
+## 📈 GitHub Readme Stats 📈
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryurbsgks5114&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
