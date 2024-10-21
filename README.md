@@ -36,3 +36,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryurbsgks5114&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryurbsgks5114)](https://solved.ac/ryurbsgks5114)
